@@ -1,8 +1,5 @@
-<table border="0">
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jackie-Aniki" width="100%" />
-    </td>
     <td>
 
 [check2d](https://github.com/Jackie-Aniki/check2d) - feature-complete 2d collision detection
@@ -16,6 +13,9 @@
 [chef-express](https://github.com/chef-js/express) - serve static folder
 
 [chef-socket](https://github.com/chef-js/socket) - serve static folder and use socket.io
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jackie-Aniki" width="100%" />
     </td>
   </tr>
 </table>
