@@ -15,7 +15,7 @@
 
 [chef-express](https://github.com/chef-js/express) - serve static folder
 
-[chef-socket](https://github.com/chef-js/socket) - serve folder and use socket.io same port
+[chef-socket](https://github.com/chef-js/socket) - serve static folder and use socket.io
     </td>
   </tr>
 </table>
