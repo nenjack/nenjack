@@ -1,6 +1,9 @@
 <table width="100%">
   <tr>
     <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nenjack" />
+    </td>
+    <td>
 
 [pixi-stats](https://github.com/nenjack/pixi-stats) - webgl stats for web apps
 
@@ -13,9 +16,6 @@
 [chef-express](https://github.com/chef-js/express) - serve static folder
 
 [chef-socket](https://github.com/chef-js/socket) - serve static folder and websockets
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nenjack" />
     </td>
   </tr>
 </table>
